@@ -254,6 +254,8 @@ NullObject.pdf
 
 Refactoring_improving_the_design_of_existing_code.pdf
 
+The Practice of Programming(英文版).pdf
+
 the_art_of_readable_code.pdf
 
 Working Effectively with Legacy Code.pdf
